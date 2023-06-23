@@ -1,0 +1,35 @@
+header {
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  #searchInput {
+    width: 300px;
+    padding: 8px;
+    margin-top: 10px;
+  }
+  
+  #bookList {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .book {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+  }
+  
+  .book h2 {
+    margin: 0;
+  }
+  
+  .book p {
+    margin: 5px 0;
+  }
+  
